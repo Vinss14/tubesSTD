@@ -20,16 +20,31 @@ PANDUAN PENGGUNAAN UNTUK SISTEM OPERASI WINDOWS
      3. lalu run program sesuai petunjuk input di bagian awal
     
    - cara 2 (dari cmd/terminal) :
-     1. Unduh MinGW. Kunjungi website "MinGW-w64" untuk mengunduh installer.
-     2. Install MinGW. Pastikan anda mengikut petunjuk pada website dan memilih paket GCC selama instalasi
+     1. Unduh MinGW.
+        Kunjungi website "MinGW-w64" untuk mengunduh installer.
+        
+     2. Install MinGW.
+        Pastikan anda mengikut petunjuk pada website dan memilih paket GCC selama instalasi
+        
      3. Tambahkan ke PATH. Tambahkan direktori MinGW (misalnya, C:\MinGW\bin) ke variabel lingkungan PATH.
+        Buka Control Panel > System > Advanced system settings.
+        Klik tombol Environment Variables.
+        Di bagian System variables, cari variabel bernama Path, lalu klik Edit.
+        Tambahkan direktori C:\MinGW\bin (atau lokasi instalasi MinGW Anda) ke daftar.
+        
      4. Periksa Instalasi. Jalankan perintah di Command Prompt:
-        g++ --version
+        g++ --version (jika sudah ada akan keluar versi g++)
+        
      5. clone repository github ini, jalankan di cmd:
         git clone https://github.com/Vinss14/tubesSTD.git
-     6. kompilasi file dengan mengetik perintah di cmd:
+        
+     6. masuk ke folder tubesSTD, jalankan perintah:
+        cd tubesSTD
+
+     7. kompilasi file dengan mengetik perintah di cmd:
         g++ main.cpp stack.cpp list.cpp -o textEditor
-     7. run program dengan perintah:
+
+     8. run program dengan perintah:
         ./textEditor
         
 PANDUAN PENGGUNAAN UNTUK SISTEM OPERASI MACOS
@@ -49,7 +64,9 @@ PANDUAN PENGGUNAAN UNTUK SISTEM OPERASI MACOS
        git clone https://github.com/Vinss14/tubesSTD.git
     5. kompilasi file dengan mengetik perintah di terminal:
        g++ main.cpp stack.cpp list.cpp -o textEditor
-    6. run program dengan perintah:
+    6. Masuk ke folder repository, dengan perintah:
+       cd tubesSTD
+    7. run program dengan perintah:
        ./textEditor
         
      
