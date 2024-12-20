@@ -49,6 +49,8 @@ PANDUAN PENGGUNAAN UNTUK SISTEM OPERASI WINDOWS
         
 PANDUAN PENGGUNAAN UNTUK SISTEM OPERASI MACOS
 
+* Untuk penggunaan pada sistem operasi MACOS disarankan untuk menggunakan cara ke 2, karena jika menggunakan cara 1 terminal pada xcode tidak mensupport library getch()
+
     - cara 1 :
     1. pastikan xcode terinstall
     2. copy program secara manual, lalu pindahkan ke xcode anda
