@@ -58,7 +58,7 @@ PANDUAN PENGGUNAAN UNTUK SISTEM OPERASI MACOS
 
 
     - cara 2 (dari terminal) :
-    1. pastikan brew terinstall pada mac anda
+    1. pastikan brew terinstall pada mac anda (jika belum, silahkan cari tutorial instalasi brew pada sumber lain)
     2. jalankan perintah di terminal:
        brew install gcc
     3. Periksa Instalasi: Pastikan g++ sudah terinstal:
