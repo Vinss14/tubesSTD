@@ -55,7 +55,8 @@ PANDUAN PENGGUNAAN UNTUK SISTEM OPERASI MACOS
     1. pastikan xcode terinstall
     2. copy program secara manual, lalu pindahkan ke xcode anda
     3. lalu run program sesuai petunjuk input di bagian awal
-    
+
+
     - cara 2 (dari terminal) :
     1. pastikan brew terinstall pada mac anda
     2. jalankan perintah di terminal:
