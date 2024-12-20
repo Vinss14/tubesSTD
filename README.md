@@ -16,7 +16,7 @@ PETUNJUK INPUT DALAM PROGRAM:
 PANDUAN PENGGUNAAN UNTUK SISTEM OPERASI WINDOWS
    - cara 1 :
      1. pastikan codeblocks terinstall
-     2. copy program secara manual, lalu pindahkan ke codeblocks anda
+     2. copy program secara manual, lalu pindahkan ke codeblocks anda (buat 5 file: list.h, stack.h, list.cpp, stack.cpp, main.cpp)
      3. lalu run program sesuai petunjuk input di bagian awal
     
    - cara 2 (dari cmd/terminal) :
@@ -53,7 +53,7 @@ PANDUAN PENGGUNAAN UNTUK SISTEM OPERASI MACOS
 
     - cara 1 :
     1. pastikan xcode terinstall
-    2. copy program secara manual, lalu pindahkan ke xcode anda
+    2. copy program secara manual, lalu pindahkan ke xcode anda (buat 5 file: list.h, stack.h, list.cpp, stack.cpp, main.cpp)
     3. lalu run program sesuai petunjuk input di bagian awal
 
 
