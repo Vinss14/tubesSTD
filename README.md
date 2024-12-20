@@ -41,10 +41,13 @@ PANDUAN PENGGUNAAN UNTUK SISTEM OPERASI WINDOWS
      6. masuk ke folder tubesSTD, jalankan perintah:
         cd tubesSTD
 
-     7. kompilasi file dengan mengetik perintah di cmd:
+     7. masuk ke folder windowsVersion, jalankan perintah:
+        cd windowsVersion
+
+     9. kompilasi file dengan mengetik perintah di cmd:
         g++ main.cpp stack.cpp list.cpp -o textEditor
 
-     8. run program dengan perintah:
+     10. run program dengan perintah:
         ./textEditor
         
 PANDUAN PENGGUNAAN UNTUK SISTEM OPERASI MACOS
@@ -65,11 +68,13 @@ PANDUAN PENGGUNAAN UNTUK SISTEM OPERASI MACOS
        g++ --version
     4. clone repository github ini, jalankan di terminal:
        git clone https://github.com/Vinss14/tubesSTD.git
-    5. kompilasi file dengan mengetik perintah di terminal:
-       g++ main.cpp stack.cpp list.cpp -o textEditor
     6. Masuk ke folder repository, dengan perintah:
        cd tubesSTD
-    7. run program dengan perintah:
+    7. Masuk ke folder macOSversion, jalankan perintah:
+       cd macOSversion
+    9. kompilasi file dengan mengetik perintah di terminal:
+       g++ main.cpp stack.cpp list.cpp -o textEditor
+    10. run program dengan perintah:
        ./textEditor
         
      
