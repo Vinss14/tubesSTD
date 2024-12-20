@@ -31,13 +31,14 @@ PANDUAN PENGGUNAAN UNTUK SISTEM OPERASI WINDOWS
         g++ main.cpp stack.cpp list.cpp -o textEditor
      7. run program dengan perintah:
         ./textEditor
-
-
+        
 PANDUAN PENGGUNAAN UNTUK SISTEM OPERASI MACOS
+
     - cara 1 :
     1. pastikan xcode terinstall
     2. copy program secara manual, lalu pindahkan ke xcode anda
     3. lalu run program sesuai petunjuk input di bagian awal
+    
     - cara 2 (dari terminal) :
     1. pastikan brew terinstall pada mac anda
     2. jalankan perintah di terminal:
