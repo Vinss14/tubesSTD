@@ -13,7 +13,7 @@ PETUNJUK INPUT DALAM PROGRAM:
 9. Tekan '<' untuk undo
 10. Tekan '>' untuk redo
 
-1. PANDUAN PENGGUNAAN UNTUK SISTEM OPERASI WINDOWS
+PANDUAN PENGGUNAAN UNTUK SISTEM OPERASI WINDOWS
    - cara 1 :
      1. pastikan codeblocks terinstall
      2. copy program secara manual, lalu pindahkan ke codeblocks anda
