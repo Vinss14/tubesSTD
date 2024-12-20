@@ -32,8 +32,11 @@ PANDUAN PENGGUNAAN UNTUK SISTEM OPERASI WINDOWS
      7. run program dengan perintah:
         ./textEditor
 
- 2. PANDUAN PENGGUNAAN UNTUK SISTEM OPERASI MACOS
+
+PANDUAN PENGGUNAAN UNTUK SISTEM OPERASI MACOS
+
     cara 1 :
+    
     1. pastikan xcode terinstall
     2. copy program secara manual, lalu pindahkan ke xcode anda
     3. lalu run program sesuai petunjuk input di bagian awal
